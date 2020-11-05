@@ -24,3 +24,11 @@ python working.py
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Preview
+
+Here's a quick preview of the game!
+
+![alt text](https://media.discordapp.net/attachments/573324187943305223/773702604324339742/Screenshot_20201104_161749.png)
+
+![alt text](https://media.discordapp.net/attachments/573324187943305223/773702478460878859/Screenshot_20201104_161719.png)
